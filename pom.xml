@@ -5,7 +5,7 @@
   <artifactId>examfinalWeb</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>daooIntroWeb Maven Webapp</name>
+  <name>daooexamfinalWeb Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>daooIntroWeb</finalName>
+    <finalName>daooexamfinalWeb</finalName>
 	
 	<plugins>
   <plugin>
