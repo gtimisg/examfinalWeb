@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:15:55:55 -0400] "GET /examfinalWeb/ HTTP/1.1" 200 83 http-bio-8080-exec-1 1049
+0:0:0:0:0:0:0:1 - - [06/Oct/2020:15:55:56 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
